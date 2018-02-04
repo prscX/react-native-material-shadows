@@ -1,0 +1,21 @@
+
+{
+  "name": "react-native-material-shadows",
+  "version": "0.0.0",
+  "description": "React Native: Native Material Shadows",
+  "main": "RNMaterialShadows.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prscX/react-native-material-shadows.git"
+  },
+  "keywords": ["react-native"],
+  "author": "Pranav Raj Singh Chauhan",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier-pack": "0.0.5"
+  },
+  "peerDependencies": {}
+}

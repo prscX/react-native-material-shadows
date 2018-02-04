@@ -1,0 +1,5 @@
+rootProject.name = 'Example'
+include ':react-native-material-shadows'
+project(':react-native-material-shadows').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-material-shadows/android')
+
+include ':app'
