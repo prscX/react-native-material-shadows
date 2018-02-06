@@ -4,7 +4,7 @@
 
 # React Native: Material Shadows - Android
 
-This library is a React Native wrapper around [harjot-oberai/MaterialShadows](https://github.com/harjot-oberai/MaterialShadows) library. It seamlessly integrats with Material shadows. The library takes existing material shadows to next level by adding the following features :
+This library is a thin React Native Bridge around [harjot-oberai/MaterialShadows](https://github.com/harjot-oberai/MaterialShadows) library. It seamlessly integrats with Material shadows. The library takes existing material shadows to next level by adding the following features :
 
 
 - **Convex shadows**: The shadows are not only rectangular or circular, they can take any convex shape depending on the view and its content.
