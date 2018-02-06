@@ -1,7 +1,7 @@
 
 {
   "name": "react-native-material-shadows",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "React Native: Native Material Shadows",
   "main": "RNMaterialShadows.js",
   "scripts": {
