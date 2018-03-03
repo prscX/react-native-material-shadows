@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://raw.githubusercontent.com/harjot-oberai/MaterialShadows/master/screens/cover.png"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/harjot-oberai/MaterialShadows/master/screens/cover.png" width="600" height="300" /></p>
 
 <p align="center">
   <a href="https://www.npmjs.com/package/react-native-material-shadows"><img src="http://img.shields.io/npm/v/react-native-material-shadows.svg?style=flat" /></a>
